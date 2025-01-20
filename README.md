@@ -1,4 +1,4 @@
-# Predicting Graduate Admission Chances: Jamboree Case Study
+# Building a regression model to predict Graduate Admission Chances on behalf of Jamboree, based on student's features like performance in undergraduate, university, TOEFL, GRE, research etc
 
 ## Overview
 
