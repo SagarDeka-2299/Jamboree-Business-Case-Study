@@ -6,22 +6,6 @@ This repository contains the analysis and development of a predictive model to e
 
 The dataset provided by Jamboree includes important features such as GRE scores, TOEFL scores, undergraduate GPA, university ratings, strength of SOP/LOR, and research experience. The analysis and model developed in this project will help students understand their chances of admission and provide actionable insights to improve their profiles.
 
-## Table of Contents
-
-- [Problem Statement](#problem-statement)
-- [Dataset](#dataset)
-- [Data Preprocessing](#data-preprocessing)
-- [Exploratory Data Analysis (EDA)](#exploratory-data-analysis-eda)
-- [Modeling Techniques](#modeling-techniques)
-  - [Linear Regression](#linear-regression)
-  - [Polynomial Linear Regression](#polynomial-linear-regression)
-  - [Regularization (Lasso, Ridge)](#regularization-lasso-ridge)
-- [Model Evaluation](#model-evaluation)
-- [Business Insights](#business-insights)
-- [Conclusion](#conclusion)
-- [Requirements](#requirements)
-- [License](#license)
-
 ## Problem Statement
 
 The goal of this case study is to predict the **Chance of Admit** (ranging from 0 to 1) based on various input features like GRE scores, TOEFL scores, university ratings, SOP/LOR strength, undergraduate GPA, and research experience. This will help students understand the factors that most influence their chances of admission to Ivy League colleges and how they can improve their profiles to increase their likelihood of acceptance.
